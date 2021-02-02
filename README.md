@@ -57,6 +57,7 @@
 - Labs PenTest Brazil (CEH Course made in Major Eder ft ACADI-TI) (https://acaditi.com.br/ceh-v10-treinamento-certified-ethical-hacker/)
 - TryHackMe (https://tryhackme.com/) / https://tryhackme.com/room/wirectf / https://tryhackme.com/room/wirectf / https://tryhackme.com/room/hydra / https://tryhackme.com/room/sqli / https://tryhackme.com/room/crackthehash / https://medium.com/@kyryloren/jack-writeup-by-kyryloren-tryhackme-e41cff4e1c55
 - iLabs CEH (https://ilabs.eccouncil.org/ethical-hacking-exercises/)
+- Some additional TryHackMe rooms to practice - (https://tryhackme.com/room/rpnmap / https://tryhackme.com/room/crackthehash / https://tryhackme.com/room/sqlilab / https://tryhackme.com/room/hydra / https://tryhackme.com/room/johntheripper0 / https://tryhackme.com/room/wireshark / https://tryhackme.com/room/ccstego / https://tryhackme.com/room/linux1 / https://tryhackme.com/room/blog / https://tryhackme.com/room/brooklynninenine
 
 --------------------------------------------
 ### **Examples Questions (There are the real issues)**
